@@ -1,13 +1,13 @@
-package com.etka.dog;
+package com.etka.car;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DogApplication {
+public class CarApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DogApplication.class, args);
+		SpringApplication.run(CarApplication.class, args);
 	}
 
 }

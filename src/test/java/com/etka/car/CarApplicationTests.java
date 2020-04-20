@@ -1,10 +1,10 @@
-package com.etka.dog;
+package com.etka.car;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DogApplicationTests {
+class CarApplicationTests {
 
 	@Test
 	void contextLoads() {
